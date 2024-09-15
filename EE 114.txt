@@ -1,0 +1,18 @@
+Hey guys!
+Since many of y'all have been asking for this, I'm putting it up here
+EE114 Qns last year (and very likely this year for y'all too):
+- B-H char (graph) of some random material given, calculate I, L, μ etc
+- Electric Vehicle ka Qn (DC machine, char of F_drag and Torque given)
+- Derivation of starting torque, induced torque etc for per-phase equivalent of IM
+- Power, losses and efficiency calculations, lots of focus on IM 
+- Losses in all sorts of motors
+- Torque-speed characteristics (v. imp)
+
+Theoretical Qns (as far as I remember)
+- Wattmeter methods
+- Skin effect pe something
+- Tappings in Transformer windings
+- ELCB concept
+(These were discussed in class by sir, so anything like that can appear in paper without a doubt)
+
+All the best!! :)
